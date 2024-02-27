@@ -1,5 +1,5 @@
 import { Answer } from "../entities/answer"
-import { AnswersRepository } from "../repositories/answer-respository"
+import { AnswersRepository } from "../repositories/answer-repository"
 
 interface AnswerQuestionServiceRequest {
   instructorId: string
