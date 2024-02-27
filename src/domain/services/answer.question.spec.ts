@@ -1,4 +1,4 @@
-import {expect, test} from 'vitest'
+import { expect, test } from 'vitest'
 import { AnswerQuestionService } from './answer-question'
 
 test('create an answe', () => {
